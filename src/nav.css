@@ -1,0 +1,34 @@
+
+img{
+    width: 10%;
+    border-radius: 10px;
+}
+#button{
+    padding: 5px;
+    border-radius: 10px;
+    background: rgba(162, 199, 232, 0);
+    margin-right: 20px;
+    color: white;
+    border: 0.5px solid grey;
+}
+#search{
+    padding:5px 280px 5px 140px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+#videos-select{
+    position: absolute;
+    top: 16px;
+    left: 101px;
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+}
+#videos{
+ 
+    padding: 8px;
+    background-color: #131921;
+    border: none;
+    color: white;
+}
